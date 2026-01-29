@@ -1,0 +1,11 @@
+[submodule "catkin_ws/src/PRISM-TopoMap"]
+	path = catkin_ws/src/PRISM-TopoMap
+	url = https://github.com/KirillMouraviev/PRISM-TopoMap
+	branch = habitat_v023_semantic
+[submodule "catkin_ws/src/habitat_ros"]
+	path = catkin_ws/src/habitat_ros
+	url = https://github.com/ViktorSMR/habitat_ros
+	branch = toposlam_experiments
+[submodule "catkin_ws/src/toposlam_msgs"]
+	path = catkin_ws/src/toposlam_msgs
+	url = https://github.com/KirillMouraviev/toposlam_msgs
