@@ -1,0 +1,18 @@
+# @package habitat.simulator.agents.rgbd4
+
+defaults:
+  - agent_base
+  - /habitat/simulator/sim_sensors@sim_sensors.rgb_for_agent: rgb_for_agent
+  - /habitat/simulator/sim_sensors@sim_sensors.rgb: rgb
+  - /habitat/simulator/sim_sensors@sim_sensors.rgb1: rgb1
+  - /habitat/simulator/sim_sensors@sim_sensors.depth1: depth1
+  - /habitat/simulator/sim_sensors@sim_sensors.semantic1: semantic1
+  - /habitat/simulator/sim_sensors@sim_sensors.rgb2: rgb2
+  - /habitat/simulator/sim_sensors@sim_sensors.depth2: depth2
+  - /habitat/simulator/sim_sensors@sim_sensors.semantic2: semantic2
+  - /habitat/simulator/sim_sensors@sim_sensors.rgb3: rgb3
+  - /habitat/simulator/sim_sensors@sim_sensors.depth3: depth3
+  - /habitat/simulator/sim_sensors@sim_sensors.semantic3: semantic3
+  - /habitat/simulator/sim_sensors@sim_sensors.rgb4: rgb4
+  - /habitat/simulator/sim_sensors@sim_sensors.depth4: depth4
+  - /habitat/simulator/sim_sensors@sim_sensors.semantic4: semantic4

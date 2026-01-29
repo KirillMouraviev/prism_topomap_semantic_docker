@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- -->
+<!-- Convert the depth image and the rgb image into a xyzrgb Point Cloud -->
+<launch>
+
+    <arg name="image_topic" default="/rgb/image_rect_color"/>
+    <arg name="camera_info_topic" default="/rgb/camera_info"/>
+    <arg name="depth_topic" default="/depth_registered/image_rect"/>
+    <arg name="cloud_topic" default="/depth_registered/points"/>
+
+    <node name="update_frame_id_semantic" pkg="depth_image_proc" type="update_frame_id.py" output="screen" />
+
+    <!-- Nodelet manager for this pipeline -->
+    <node pkg="nodelet" type="nodelet" args="manager" name="standalone_nodelet_semantic" output="screen"/>
+
+
+    <!-- Convert to point cloud -->
+    <node pkg="nodelet" type="nodelet" name="depth_image_proc" args="load depth_image_proc/point_cloud_xyzrgb standalone_nodelet_semantic --no-bond" output="screen">
+        <param name="filter_resolution" value="0.05"/>
+        <param name="exact_sync" value="false"/>
+        <param name="queue_size" value="100"/>
+        <!--remap from your specific sensors-->         
+
+        <!-- Input: Camera calibration and metadata.  (sensor_msgs/CameraInfo) -->
+        <remap from="rgb/camera_info" to="$(arg camera_info_topic)"/>
+
+        <!-- Input: Rectified color image. (sensor_msgs/Image) -->
+        <remap from="rgb/image_rect_color" to="$(arg image_topic)"/>
+
+        <!-- Input: Rectified depth image, registered to the RGB camera. (sensor_msgs/Image) -->
+        <remap from="depth_registered/image_rect" to="$(arg depth_topic)"/>
+
+        <!-- Output: XYZ point cloud. If using PCL, subscribe as PointCloud<PointXYZ>.  (sensor_msgs/PointCloud2)  -->
+        <remap from="depth_registered/points" to="$(arg cloud_topic)"/>
+
+    </node>
+
+</launch>
+
+<!-- -->

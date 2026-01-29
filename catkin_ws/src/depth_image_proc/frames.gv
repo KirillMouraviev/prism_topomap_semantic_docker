@@ -1,0 +1,7 @@
+digraph G {
+"map" -> "base_link"[label=" Broadcaster: /habitat_agent\nAverage rate: 18.114\nBuffer length: 4.913\nMost recent transform: 1677072010.521\nOldest transform: 1677072005.608\n"];
+edge [style=invis];
+ subgraph cluster_legend { style=bold; color=black; label ="view_frames Result";
+"Recorded at time: 1677072010.5760727"[ shape=plaintext ] ;
+}->"map";
+}

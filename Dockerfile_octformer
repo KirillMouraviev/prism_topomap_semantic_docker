@@ -1,0 +1,27 @@
+# syntax=docker/dockerfile:1
+
+FROM kirillmouraviev/prism-topomap:cuda12.1-ros-noetic-habitat_v0.2.3
+
+ENV DEBIAN_FRONTEND=noninteractive
+
+RUN pip install torchaudio==2.1.2
+RUN git clone https://github.com/octree-nn/octformer.git \
+    && cd  octformer \
+    && pip install -r requirements.txt
+RUN git clone https://github.com/octree-nn/dwconv.git \
+    && TORCH_CUDA_ARCH_LIST="7.5" pip install ./dwconv
+RUN sudo pip install openmim==0.3.3 \
+    && mim install mmcv-full \
+    && mim install mmdet \
+    && mim install mmsegmentation
+RUN git clone https://github.com/open-mmlab/mmdetection3d.git \
+    && cd mmdetection3d \
+    && git checkout v1.0.0rc5 \
+    && TORCH_CUDA_ARCH_LIST="7.5" pip install -e .
+RUN sudo pip install jupyter
+
+ENV JUPYTER_PASSWORD="jupyter"
+ENV JUPYTER_TOKEN="jupyter"
+
+ENTRYPOINT ["/startup.sh"]
+CMD ["/bin/bash"]

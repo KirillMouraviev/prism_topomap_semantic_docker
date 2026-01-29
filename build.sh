@@ -1,0 +1,1 @@
+docker compose build habitat_ros

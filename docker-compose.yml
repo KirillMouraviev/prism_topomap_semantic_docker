@@ -1,0 +1,70 @@
+services:
+  prism_topomap_habitat:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: dev
+      network: host
+      args:
+        INSTALL_ROS1: "true"
+        HOST_UID: 1000
+        HOST_GID: 1000
+    image: kirillmouraviev/prism-topomap:cuda12.1-ros-noetic-habitat_v0.2.3
+    container_name: prism_topomap_habitat
+    runtime: nvidia
+    command: bash
+    network_mode: host
+    ipc: host
+    environment:
+      - DISPLAY=$DISPLAY
+      - QT_X11_NO_MITSHM=1
+      - NVIDIA_DRIVER_CAPABILITIES=all
+      - NVIDIA_VISIBLE_DEVICES=all
+    volumes:
+      - ./catkin_ws:/home/docker_prism/catkin_ws
+      - ./data:/data
+      - /tmp/.X11-unix:/tmp/.X11-unix:rw
+      - /media:/media
+      - /dev:/dev
+      - /tmp/.Xauthority:/home/docker_prism/.Xauthority:rw
+      - /usr/lib/x86_64-linux-gnu/libEGL_nvidia.so.0:/usr/lib/x86_64-linux-gnu/libEGL_nvidia.so.0
+      - /usr/share/glvnd/egl_vendor.d/10_nvidia.json:/usr/share/glvnd/egl_vendor.d/10_nvidia.json
+    devices:
+      - /dev/nvidia0:/dev/nvidia0
+    stdin_open: true
+    tty: true
+    privileged: true
+    restart: unless-stopped
+  prism_topomap_semantic:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: dev
+      network: host
+      args:
+        INSTALL_ROS1: "true"
+        HOST_UID: 1000
+        HOST_GID: 1000
+    image: kirillmouraviev/prism-topomap:cuda12.1-ros-noetic-habitat_v0.2.3
+    command: bash
+    network_mode: host
+    ipc: host
+    # privileged: true
+  prism_topomap_semantic_ptv3:
+    build:
+      context: .
+      dockerfile: Dockerfile_ptv3
+      network: host
+    image: prism_topomap_semantic_ptv3
+    command: bash
+    network_mode: host
+    ipc: host
+  prism_topomap_semantic_octformer:
+    build:
+      context: .
+      dockerfile: Dockerfile_octformer
+      network: host
+    image: prism_topomap_semantic_octformer
+    command: bash
+    network_mode: host
+    ipc: host

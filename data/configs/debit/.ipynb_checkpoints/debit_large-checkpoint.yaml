@@ -1,0 +1,6 @@
+defaults:
+  - debit_defaults
+  - _self_
+
+croco:
+  img_size: 112

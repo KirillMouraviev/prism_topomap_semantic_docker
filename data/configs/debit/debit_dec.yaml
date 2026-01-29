@@ -1,0 +1,9 @@
+defaults:
+  - debit_defaults
+  - _self_
+
+croco:
+  img_size: 112
+  enc_embed_dim: 384
+  enc_depth: 8
+  enc_num_heads: 6

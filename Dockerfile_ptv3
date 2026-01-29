@@ -1,0 +1,29 @@
+# syntax=docker/dockerfile:1
+
+FROM kirillmouraviev/prism-topomap:cuda12.1-ros-noetic-habitat_v0.2.3
+
+ENV DEBIAN_FRONTEND=noninteractive
+
+RUN pip install h5py sharedarray tensorboard tensorboardx yapf addict einops scipy plyfile termcolor timm
+RUN pip install torch-cluster torch-scatter torch-sparse torch-geometric
+RUN pip install spconv-cu120
+RUN sudo apt-get install libsparsehash-dev
+RUN sudo pip install jupyter
+RUN git clone https://github.com/Pointcept/PointTransformerV3 \
+    && cd PointTransformerV3 \
+    && git submodule update --init \
+    && cd Pointcept/libs/pointops \
+    && TORCH_CUDA_ARCH_LIST="7.5" python setup.py install --user \
+    && cd ../pointgroup_ops \
+    && TORCH_CUDA_ARCH_LIST="7.5" python setup.py install --user \
+    && cd ../pointops2 \
+    && TORCH_CUDA_ARCH_LIST="7.5" python setup.py install --user
+RUN git clone https://github.com/Pointcept/Pointcept ./Pointcept_latest
+RUN pip install yapf==0.40.1
+RUN pip install flash-attn --no-build-isolation
+
+ENV JUPYTER_PASSWORD "jupyter"
+ENV JUPYTER_TOKEN "jupyter"
+
+ENTRYPOINT ["/startup.sh"]
+CMD ["/bin/bash"]

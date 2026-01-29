@@ -1,0 +1,167 @@
+defaults:
+  - /habitat: habitat_config_base
+  - /habitat/task: pointnav_no_finish_on_stop
+  - /habitat/simulator/agents@habitat.simulator.agents.main_agent:
+    - rgbd4
+  - /habitat/task/measurements:
+    - top_down_map
+  - /habitat/task/lab_sensors:
+    - pointgoal_sensor
+    - agent_position_sensor
+    - heading_sensor
+    - compass_sensor
+    - gps_sensor
+  - _self_
+
+habitat:
+  task:
+    measurements:
+      success:
+        success_distance: 0.5
+      top_down_map:
+        type: TopDownMap
+    success_reward: 10.0
+    lab_sensors:
+      heading_sensor:
+        type: HeadingSensor
+      compass_sensor:
+        type: CompassSensor
+      gps_sensor:
+        type: GPSSensor
+      pointgoal_sensor:
+        type: PointGoalSensor
+        goal_format: CARTESIAN
+        dimensionality: 3
+      pointgoal_with_gps_compass_sensor:
+        type: PointGoalWithGPSCompassSensor
+      agent_position_sensor:
+        type: AgentPositionSensor
+        answer_to_life: 42
+  simulator:
+    habitat_sim_v0:
+      allow_sliding: false
+    turn_angle: 2
+    tilt_angle: 2
+    forward_step_size: 0.15
+    agents:
+      main_agent:
+        sim_sensors:
+          rgb_for_agent:
+            type: HabitatSimRGBSensor
+            width: 256
+            height: 256
+            hfov: 90
+            position: [0, 0.88, 0]
+            orientation: [0, 0, 0]
+          rgb:
+            type: HabitatSimRGBSensor
+            width: 640
+            height: 360
+            hfov: 90
+            position: [0, 0.88, 0]
+            orientation: [0, 0, 0]
+          rgb1:
+            type: HabitatSimRGBSensor
+            width: 640
+            height: 360
+            hfov: 90
+            position: [0, 0.88, 0]
+            orientation: [0, 0, 0]
+          rgb2:
+            type: HabitatSimRGBSensor
+            width: 640
+            height: 360
+            hfov: 90
+            position: [0, 0.88, 0]
+            orientation: [0, 1.5708, 0]
+          rgb3:
+            type: HabitatSimRGBSensor
+            width: 640
+            height: 360
+            hfov: 90
+            position: [0, 0.88, 0]
+            orientation: [0, 3.1416, 0]
+          rgb4:
+            type: HabitatSimRGBSensor
+            width: 640
+            height: 360
+            hfov: 90
+            position: [0, 0.88, 0]
+            orientation: [0, -1.5708, 0]
+          depth1:
+            type: HabitatSimDepthSensor
+            normalize_depth: true
+            width: 640
+            height: 360
+            hfov: 90
+            min_depth: 0.2
+            max_depth: 8.0
+            position: [0, 0.88, 0]
+            orientation: [0, 0, 0]
+          depth2:
+            type: HabitatSimDepthSensor
+            normalize_depth: true
+            width: 640
+            height: 360
+            hfov: 90
+            min_depth: 0.2
+            max_depth: 8.0
+            position: [0, 0.88, 0]
+            orientation: [0, 1.5708, 0]
+          depth3:
+            type: HabitatSimDepthSensor
+            normalize_depth: true
+            width: 640
+            height: 360
+            hfov: 90
+            min_depth: 0.2
+            max_depth: 8.0
+            position: [0, 0.88, 0]
+            orientation: [0, 3.1416, 0]
+          depth4:
+            type: HabitatSimDepthSensor
+            normalize_depth: true
+            width: 640
+            height: 360
+            hfov: 90
+            min_depth: 0.2
+            max_depth: 8.0
+            position: [0, 0.88, 0]
+            orientation: [0, -1.5708, 0]
+          semantic1:
+            type: HabitatSimSemanticSensor
+            width: 640
+            height: 360
+            hfov: 90
+            position: [0, 0.88, 0]
+            orientation: [0, 0, 0]
+          semantic2:
+            type: HabitatSimSemanticSensor
+            width: 640
+            height: 360
+            hfov: 90
+            position: [0, 0.88, 0]
+            orientation: [0, 1.5708, 0]
+          semantic3:
+            type: HabitatSimSemanticSensor
+            width: 640
+            height: 360
+            hfov: 90
+            position: [0, 0.88, 0]
+            orientation: [0, 3.1416, 0]
+          semantic4:
+            type: HabitatSimSemanticSensor
+            width: 640
+            height: 360
+            hfov: 90
+            position: [0, 0.88, 0]
+            orientation: [0, -1.5708, 0]
+            
+  environment:
+    max_episode_steps: 10000
+    iterator_options:
+      max_scene_repeat_steps: 1000
+  dataset:
+    type: PointNav-v1
+    split: val_mini
+    data_path: /data/datasets/mp3d_toposlam/toposlam/rPc6DW4iMge_2.json.gz

@@ -1,0 +1,26 @@
+defaults:
+  - /habitat: habitat_config_base
+  - /habitat/task: pointnav
+  - /habitat/simulator/agents:
+    - rgb_agent
+  - _self_
+
+habitat:
+  simulator:
+    agents:
+      rgb_agent:
+        sim_sensors:
+          rgb_sensor:
+            type: HabitatSimRGBSensor
+            width: 256
+            height: 256
+            hfov: 90
+  environment:
+    max_episode_steps: 100
+    iterator_options:
+      max_scene_repeat_steps: 100
+  dataset:
+    type: "PointNav-v1"
+    data_path: "/data/datasets/mipt_v1/val_mini/val_mini.json.gz"
+    scenes_dir: "/data/scene_datasets/mipt"
+    split: "val_mini"

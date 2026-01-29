@@ -1,0 +1,34 @@
+services:
+  prism_topomap_semantic:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: dev
+      network: host
+      args:
+        INSTALL_ROS1: "true"
+        HOST_UID: 1000
+        HOST_GID: 1000
+    image: kirillmouraviev/prism-topomap:cuda12.1-ros-noetic-habitat_v0.2.3
+    command: bash
+    network_mode: host
+    ipc: host
+    # privileged: true
+  prism_topomap_semantic_ptv3:
+    build:
+      context: .
+      dockerfile: Dockerfile_ptv3
+      network: host
+    image: prism_topomap_semantic_ptv3
+    command: bash
+    network_mode: host
+    ipc: host
+  prism_topomap_semantic_octformer:
+    build:
+      context: .
+      dockerfile: Dockerfile_octformer
+      network: host
+    image: prism_topomap_semantic_octformer
+    command: bash
+    network_mode: host
+    ipc: host

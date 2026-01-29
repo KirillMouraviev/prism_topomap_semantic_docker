@@ -1,0 +1,3104 @@
+{
+    "episodes": [
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -2.059999942779541,
+                0.15942930698394775,
+                -4.48799991607666
+            ],
+            "start_rotation": [
+                0.0,
+                -0.9572481370670839,
+                0.0,
+                -0.28926804884327856
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -2.9238337885417565,
+                        0.15942930698394775,
+                        -2.9621482663178096
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 1.961651555749892,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -2.9238337885417565,
+                0.15942930698394775,
+                -2.9621482663178096
+            ],
+            "start_rotation": [
+                0.0,
+                -0.921505543629326,
+                0.0,
+                -0.3883652057798438
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -2.059999942779541,
+                        0.15942930698394775,
+                        -4.48799991607666
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 1.961651555749892,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -2.9238337885417565,
+                0.15942930698394775,
+                -2.9621482663178096
+            ],
+            "start_rotation": [
+                0.0,
+                0.9667890787638602,
+                0.0,
+                0.2555755801772278
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -2.059999942779541,
+                        0.15942930698394775,
+                        -4.48799991607666
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 1.961651555749892,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -2.059999942779541,
+                0.15942930698394775,
+                -4.48799991607666
+            ],
+            "start_rotation": [
+                0.0,
+                -0.2932162185992086,
+                0.0,
+                -0.9560461542992479
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -2.9238337885417565,
+                        0.15942930698394775,
+                        -2.9621482663178096
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 1.961651555749892,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -2.9238337885417565,
+                0.15942930698394775,
+                -2.9621482663178096
+            ],
+            "start_rotation": [
+                0.0,
+                -0.8924114731301083,
+                0.0,
+                -0.4512225200782317
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -3.6916909774488462,
+                        0.15942930698394775,
+                        -5.845082527243469
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 2.983440063982395,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -3.6916909774488462,
+                0.15942930698394775,
+                -5.845082527243469
+            ],
+            "start_rotation": [
+                0.0,
+                0.5688494505234549,
+                0.0,
+                -0.822441671268646
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -2.9238337885417565,
+                        0.15942930698394775,
+                        -2.9621482663178096
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 2.983440063982395,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -2.9238337885417565,
+                0.15942930698394775,
+                -2.9621482663178096
+            ],
+            "start_rotation": [
+                0.0,
+                0.5372738581501418,
+                0.0,
+                -0.8434078499447709
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -4.133546054583279,
+                        0.15942930698394775,
+                        -3.6359269418018476
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 1.3846954431023237,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -4.133546054583279,
+                0.15942930698394775,
+                -3.6359269418018476
+            ],
+            "start_rotation": [
+                0.0,
+                -0.8745367526866863,
+                0.0,
+                0.48495924385480665
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -2.9238337885417565,
+                        0.15942930698394775,
+                        -2.9621482663178096
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 1.3846954431023237,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -2.9238337885417565,
+                0.15942930698394775,
+                -2.9621482663178096
+            ],
+            "start_rotation": [
+                0.0,
+                -0.9967325168690102,
+                0.0,
+                -0.08077307605859955
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -4.037105350542851,
+                        0.15942930698394775,
+                        -0.8743602491358728
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 2.3660584049107576,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -4.037105350542851,
+                0.15942930698394775,
+                -0.8743602491358728
+            ],
+            "start_rotation": [
+                0.0,
+                0.9804379898734119,
+                0.0,
+                0.19682821955447205
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -2.9238337885417565,
+                        0.15942930698394775,
+                        -2.9621482663178096
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 2.3660584049107576,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -2.9238337885417565,
+                0.15942930698394775,
+                -2.9621482663178096
+            ],
+            "start_rotation": [
+                0.0,
+                0.3811293878402175,
+                0.0,
+                -0.9245217086280566
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -2.476773262023926,
+                        0.15942930698394775,
+                        -3.192472219467163
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 0.5029038056773338,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -2.476773262023926,
+                0.15942930698394775,
+                -3.192472219467163
+            ],
+            "start_rotation": [
+                0.0,
+                -0.26376559745727995,
+                0.0,
+                0.9645868077047314
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -2.9238337885417565,
+                        0.15942930698394775,
+                        -2.9621482663178096
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 0.5029038056773338,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -3.6916909774488462,
+                0.15942930698394775,
+                -5.845082527243469
+            ],
+            "start_rotation": [
+                0.0,
+                0.3928278765020439,
+                0.0,
+                0.9196120157125477
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -2.9238337885417565,
+                        0.15942930698394775,
+                        -2.9621482663178096
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 2.983440063982395,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -2.9238337885417565,
+                0.15942930698394775,
+                -2.9621482663178096
+            ],
+            "start_rotation": [
+                0.0,
+                0.5838312558165456,
+                0.0,
+                -0.8118750302427555
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -3.6916909774488462,
+                        0.15942930698394775,
+                        -5.845082527243469
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 2.983440063982395,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -4.133546054583279,
+                0.15942930698394775,
+                -3.6359269418018476
+            ],
+            "start_rotation": [
+                0.0,
+                -0.5955043594499005,
+                0.0,
+                -0.8033520759145168
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -2.9238337885417565,
+                        0.15942930698394775,
+                        -2.9621482663178096
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 1.3846954431023237,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -2.9238337885417565,
+                0.15942930698394775,
+                -2.9621482663178096
+            ],
+            "start_rotation": [
+                0.0,
+                -0.5318721701487519,
+                0.0,
+                0.8468246539994316
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -4.133546054583279,
+                        0.15942930698394775,
+                        -3.6359269418018476
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 1.3846954431023237,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -4.133546054583279,
+                0.15942930698394775,
+                -3.6359269418018476
+            ],
+            "start_rotation": [
+                0.0,
+                -0.973193935498118,
+                0.0,
+                -0.2299860080737198
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -3.4476564952458366,
+                        0.15942930698394775,
+                        -3.6689450768301066
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 0.6866838317951395,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -3.4476564952458366,
+                0.15942930698394775,
+                -3.6689450768301066
+            ],
+            "start_rotation": [
+                0.0,
+                0.009224652470200054,
+                0.0,
+                -0.9999574519882354
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -4.133546054583279,
+                        0.15942930698394775,
+                        -3.6359269418018476
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 0.6866838317951395,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -4.037105350542851,
+                0.15942930698394775,
+                -0.8743602491358728
+            ],
+            "start_rotation": [
+                0.0,
+                -0.940157566783729,
+                0.0,
+                -0.3407400029631069
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -2.9238337885417565,
+                        0.15942930698394775,
+                        -2.9621482663178096
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 2.3660584049107576,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -2.9238337885417565,
+                0.15942930698394775,
+                -2.9621482663178096
+            ],
+            "start_rotation": [
+                0.0,
+                0.9772833696460541,
+                0.0,
+                -0.21193681939024686
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -4.037105350542851,
+                        0.15942930698394775,
+                        -0.8743602491358728
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 2.3660584049107576,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -4.037105350542851,
+                0.15942930698394775,
+                -0.8743602491358728
+            ],
+            "start_rotation": [
+                0.0,
+                -0.9052728227042125,
+                0.0,
+                0.42483069153857916
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -3.4476564952458366,
+                        0.15942930698394775,
+                        -3.6689450768301066
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 2.8560732329878675,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -3.4476564952458366,
+                0.15942930698394775,
+                -3.6689450768301066
+            ],
+            "start_rotation": [
+                0.0,
+                0.4808666460704641,
+                0.0,
+                0.8767937435320482
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -4.037105350542851,
+                        0.15942930698394775,
+                        -0.8743602491358728
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 2.8560732329878675,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -2.476773262023926,
+                0.15942930698394775,
+                -3.192472219467163
+            ],
+            "start_rotation": [
+                0.0,
+                0.9995547868302131,
+                0.0,
+                -0.02983669091583643
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -2.9238337885417565,
+                        0.15942930698394775,
+                        -2.9621482663178096
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 0.5029038056773338,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -2.9238337885417565,
+                0.15942930698394775,
+                -2.9621482663178096
+            ],
+            "start_rotation": [
+                0.0,
+                -0.8622116698257265,
+                0.0,
+                0.5065481580425818
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -2.476773262023926,
+                        0.15942930698394775,
+                        -3.192472219467163
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 0.5029038056773338,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -2.476773262023926,
+                0.15942930698394775,
+                -3.192472219467163
+            ],
+            "start_rotation": [
+                0.0,
+                0.09637070616671599,
+                0.0,
+                -0.995345511364234
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -1.5880060508980112,
+                        0.15942930698394775,
+                        -1.5444357083368552
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 1.872413281727913,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -1.5880060508980112,
+                0.15942930698394775,
+                -1.5444357083368552
+            ],
+            "start_rotation": [
+                0.0,
+                -0.7571435268405206,
+                0.0,
+                -0.6532485589448308
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -2.476773262023926,
+                        0.15942930698394775,
+                        -3.192472219467163
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 1.872413281727913,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -2.476773262023926,
+                0.15942930698394775,
+                -3.192472219467163
+            ],
+            "start_rotation": [
+                0.0,
+                -0.9342371588920652,
+                0.0,
+                -0.3566523951206304
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -2.1163420732326426,
+                        0.15942930698394775,
+                        -2.144140468571691
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 1.1085621776829047,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -2.1163420732326426,
+                0.15942930698394775,
+                -2.144140468571691
+            ],
+            "start_rotation": [
+                0.0,
+                0.9837752586249165,
+                0.0,
+                0.17940524105353972
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -2.476773262023926,
+                        0.15942930698394775,
+                        -3.192472219467163
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 1.1085621776829047,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -1.5880060508980112,
+                0.15942930698394775,
+                -1.5444357083368552
+            ],
+            "start_rotation": [
+                0.0,
+                0.673179318926023,
+                0.0,
+                0.7394792793380325
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -2.476773262023926,
+                        0.15942930698394775,
+                        -3.192472219467163
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 1.872413281727913,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -2.476773262023926,
+                0.15942930698394775,
+                -3.192472219467163
+            ],
+            "start_rotation": [
+                0.0,
+                0.7742353068883455,
+                0.0,
+                -0.6328978508159981
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -1.5880060508980112,
+                        0.15942930698394775,
+                        -1.5444357083368552
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 1.872413281727913,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -1.5880060508980112,
+                0.15942930698394775,
+                -1.5444357083368552
+            ],
+            "start_rotation": [
+                0.0,
+                -0.3489453499054112,
+                0.0,
+                0.9371430748713828
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -2.0425800714485742,
+                        0.15942930698394775,
+                        3.246007433915654
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 4.811962493548095,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -2.0425800714485742,
+                0.15942930698394775,
+                3.246007433915654
+            ],
+            "start_rotation": [
+                0.0,
+                -0.4712969853835554,
+                0.0,
+                0.8819745753525852
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -1.5880060508980112,
+                        0.15942930698394775,
+                        -1.5444357083368552
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 4.811962493548095,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -1.5880060508980112,
+                0.15942930698394775,
+                -1.5444357083368552
+            ],
+            "start_rotation": [
+                0.0,
+                0.5759732984552529,
+                0.0,
+                0.8174685067123847
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -2.1163420732326426,
+                        0.15942930698394775,
+                        -2.144140468571691
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 0.7992401090690469,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -2.1163420732326426,
+                0.15942930698394775,
+                -2.144140468571691
+            ],
+            "start_rotation": [
+                0.0,
+                0.7876547218691806,
+                0.0,
+                -0.6161169037749117
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -1.5880060508980112,
+                        0.15942930698394775,
+                        -1.5444357083368552
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 0.7992401090690469,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -2.0425800714485742,
+                0.15942930698394775,
+                3.246007433915654
+            ],
+            "start_rotation": [
+                0.0,
+                -0.9113841439979428,
+                0.0,
+                -0.4115567300739197
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -1.5880060508980112,
+                        0.15942930698394775,
+                        -1.5444357083368552
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 4.811962493548095,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -1.5880060508980112,
+                0.15942930698394775,
+                -1.5444357083368552
+            ],
+            "start_rotation": [
+                0.0,
+                0.4293508630987284,
+                0.0,
+                0.9031377726329339
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -2.0425800714485742,
+                        0.15942930698394775,
+                        3.246007433915654
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 4.811962493548095,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -2.0425800714485742,
+                0.15942930698394775,
+                3.246007433915654
+            ],
+            "start_rotation": [
+                0.0,
+                -0.5306387157821073,
+                0.0,
+                -0.8475981083704212
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -0.5769827728714315,
+                        0.15942930698394775,
+                        3.83412876626602
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 1.5791966765296173,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -0.5769827728714315,
+                0.15942930698394775,
+                3.83412876626602
+            ],
+            "start_rotation": [
+                0.0,
+                -0.9926200809671166,
+                0.0,
+                -0.12126572005655542
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -2.0425800714485742,
+                        0.15942930698394775,
+                        3.246007433915654
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 1.5791966765296173,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -2.0425800714485742,
+                0.15942930698394775,
+                3.246007433915654
+            ],
+            "start_rotation": [
+                0.0,
+                -0.24064121593651164,
+                0.0,
+                0.9706141381582061
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -1.351900187916823,
+                        0.15942930698394775,
+                        3.843112597253891
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 0.9130497298301671,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -1.351900187916823,
+                0.15942930698394775,
+                3.843112597253891
+            ],
+            "start_rotation": [
+                0.0,
+                0.8655617262631904,
+                0.0,
+                0.5008022544161378
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -2.0425800714485742,
+                        0.15942930698394775,
+                        3.246007433915654
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 0.9130497298301671,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -2.0425800714485742,
+                0.15942930698394775,
+                3.246007433915654
+            ],
+            "start_rotation": [
+                0.0,
+                0.9900779675547093,
+                0.0,
+                -0.14051910248338498
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -2.3067011055745144,
+                        0.15942930698394775,
+                        8.384184130739872
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 5.144960610972175,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -2.3067011055745144,
+                0.15942930698394775,
+                8.384184130739872
+            ],
+            "start_rotation": [
+                0.0,
+                0.7487874726525059,
+                0.0,
+                0.6628101695045668
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -2.0425800714485742,
+                        0.15942930698394775,
+                        3.246007433915654
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 5.144960610972175,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -0.5769827728714315,
+                0.15942930698394775,
+                3.83412876626602
+            ],
+            "start_rotation": [
+                0.0,
+                0.13513238670179684,
+                0.0,
+                0.9908275521321943
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -2.0425800714485742,
+                        0.15942930698394775,
+                        3.246007433915654
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 1.5791966765296173,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -2.0425800714485742,
+                0.15942930698394775,
+                3.246007433915654
+            ],
+            "start_rotation": [
+                0.0,
+                0.6718264500435155,
+                0.0,
+                -0.740708593862612
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -0.5769827728714315,
+                        0.15942930698394775,
+                        3.83412876626602
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 1.5791966765296173,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -0.5769827728714315,
+                0.15942930698394775,
+                3.83412876626602
+            ],
+            "start_rotation": [
+                0.0,
+                -0.7304363129603105,
+                0.0,
+                0.6829808143051658
+            ],
+            "goals": [
+                {
+                    "position": [
+                        0.18239825963974,
+                        0.15942930698394775,
+                        3.883498430252075
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 0.7609841760902976,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                0.18239825963974,
+                0.15942930698394775,
+                3.883498430252075
+            ],
+            "start_rotation": [
+                0.0,
+                -0.8194219227982238,
+                0.0,
+                -0.5731908167771548
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -0.5769827728714315,
+                        0.15942930698394775,
+                        3.83412876626602
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 0.7609841760902976,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                0.18239825963974,
+                0.15942930698394775,
+                3.883498430252075
+            ],
+            "start_rotation": [
+                0.0,
+                0.18068024680181297,
+                0.0,
+                0.9835418895073235
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -0.5769827728714315,
+                        0.15942930698394775,
+                        3.83412876626602
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 0.7609841760902976,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -0.5769827728714315,
+                0.15942930698394775,
+                3.83412876626602
+            ],
+            "start_rotation": [
+                0.0,
+                -0.3098446190651797,
+                0.0,
+                0.9507872064959403
+            ],
+            "goals": [
+                {
+                    "position": [
+                        0.18239825963974,
+                        0.15942930698394775,
+                        3.883498430252075
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 0.7609841760902976,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -1.351900187916823,
+                0.15942930698394775,
+                3.843112597253891
+            ],
+            "start_rotation": [
+                0.0,
+                -0.8225564664107893,
+                0.0,
+                0.5686834440756968
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -2.0425800714485742,
+                        0.15942930698394775,
+                        3.246007433915654
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 0.9130497298301671,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -2.0425800714485742,
+                0.15942930698394775,
+                3.246007433915654
+            ],
+            "start_rotation": [
+                0.0,
+                0.9921177591543212,
+                0.0,
+                -0.12530902589441997
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -1.351900187916823,
+                        0.15942930698394775,
+                        3.843112597253891
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 0.9130497298301671,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -1.351900187916823,
+                0.15942930698394775,
+                3.843112597253891
+            ],
+            "start_rotation": [
+                0.0,
+                -0.5005633447775109,
+                0.0,
+                -0.8656999121318835
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -1.892347812652588,
+                        0.15942930698394775,
+                        3.9720044136047363
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 0.5556827034802104,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -1.892347812652588,
+                0.15942930698394775,
+                3.9720044136047363
+            ],
+            "start_rotation": [
+                0.0,
+                0.6241952995941112,
+                0.0,
+                -0.7812683456819544
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -1.351900187916823,
+                        0.15942930698394775,
+                        3.843112597253891
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 0.5556827034802104,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -1.892347812652588,
+                0.15942930698394775,
+                3.9720044136047363
+            ],
+            "start_rotation": [
+                0.0,
+                0.9910491986583394,
+                0.0,
+                -0.13349713794184329
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -1.351900187916823,
+                        0.15942930698394775,
+                        3.843112597253891
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 0.5556827034802104,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -1.351900187916823,
+                0.15942930698394775,
+                3.843112597253891
+            ],
+            "start_rotation": [
+                0.0,
+                0.993934347448209,
+                0.0,
+                0.10997505609320267
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -1.892347812652588,
+                        0.15942930698394775,
+                        3.9720044136047363
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 0.5556827034802104,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -1.892347812652588,
+                0.15942930698394775,
+                3.9720044136047363
+            ],
+            "start_rotation": [
+                0.0,
+                -0.5365243652768403,
+                0.0,
+                0.8438848295023934
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -2.5317975299300546,
+                        0.15942930698394775,
+                        7.683324784183135
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 3.76600515586429,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -2.5317975299300546,
+                0.15942930698394775,
+                7.683324784183135
+            ],
+            "start_rotation": [
+                0.0,
+                -0.35175379430575093,
+                0.0,
+                0.9360925532187016
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -1.892347812652588,
+                        0.15942930698394775,
+                        3.9720044136047363
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 3.76600515586429,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -2.5317975299300546,
+                0.15942930698394775,
+                7.683324784183135
+            ],
+            "start_rotation": [
+                0.0,
+                -0.3128526666682129,
+                0.0,
+                0.9498016682226812
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -1.892347812652588,
+                        0.15942930698394775,
+                        3.9720044136047363
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 3.76600515586429,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -1.892347812652588,
+                0.15942930698394775,
+                3.9720044136047363
+            ],
+            "start_rotation": [
+                0.0,
+                -0.33710442572636606,
+                0.0,
+                0.9414672623918992
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -2.5317975299300546,
+                        0.15942930698394775,
+                        7.683324784183135
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 3.76600515586429,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -2.5317975299300546,
+                0.15942930698394775,
+                7.683324784183135
+            ],
+            "start_rotation": [
+                0.0,
+                -0.8715035536017128,
+                0.0,
+                -0.4903891883591914
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -3.0905903489822326,
+                        0.15942930698394775,
+                        8.164333687445506
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 0.7373052147122987,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -3.0905903489822326,
+                0.15942930698394775,
+                8.164333687445506
+            ],
+            "start_rotation": [
+                0.0,
+                -0.9790607052209557,
+                0.0,
+                -0.203568503193016
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -2.5317975299300546,
+                        0.15942930698394775,
+                        7.683324784183135
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 0.7373052147122987,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -2.5317975299300546,
+                0.15942930698394775,
+                7.683324784183135
+            ],
+            "start_rotation": [
+                0.0,
+                -0.14202002762642738,
+                0.0,
+                -0.9898637844435915
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -2.781666734194304,
+                        0.15942930698394775,
+                        8.438119503805659
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 0.7950784162645176,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -2.781666734194304,
+                0.15942930698394775,
+                8.438119503805659
+            ],
+            "start_rotation": [
+                0.0,
+                0.18867920897136695,
+                0.0,
+                -0.9820387752537775
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -2.5317975299300546,
+                        0.15942930698394775,
+                        7.683324784183135
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 0.7950784162645176,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -2.5317975299300546,
+                0.15942930698394775,
+                7.683324784183135
+            ],
+            "start_rotation": [
+                0.0,
+                -0.8200946774362161,
+                0.0,
+                -0.5722278567500789
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -2.556393855962505,
+                        0.15942930698394775,
+                        11.135371020899749
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 3.4521338617851467,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -2.556393855962505,
+                0.15942930698394775,
+                11.135371020899749
+            ],
+            "start_rotation": [
+                0.0,
+                -0.9256615027730297,
+                0.0,
+                -0.37835272205175996
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -2.5317975299300546,
+                        0.15942930698394775,
+                        7.683324784183135
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 3.4521338617851467,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -3.0905903489822326,
+                0.15942930698394775,
+                8.164333687445506
+            ],
+            "start_rotation": [
+                0.0,
+                -0.8511390715833776,
+                0.0,
+                -0.5249402640531455
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -2.5317975299300546,
+                        0.15942930698394775,
+                        7.683324784183135
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 0.7373052147122987,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -2.5317975299300546,
+                0.15942930698394775,
+                7.683324784183135
+            ],
+            "start_rotation": [
+                0.0,
+                -0.41905052981695784,
+                0.0,
+                0.9079629141435938
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -3.0905903489822326,
+                        0.15942930698394775,
+                        8.164333687445506
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 0.7373052147122987,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -3.0905903489822326,
+                0.15942930698394775,
+                8.164333687445506
+            ],
+            "start_rotation": [
+                0.0,
+                -0.970916973792468,
+                0.0,
+                0.2394164363649164
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -4.3166632652282715,
+                        0.15942930698394775,
+                        8.687518119812012
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 1.3330329126554712,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -4.3166632652282715,
+                0.15942930698394775,
+                8.687518119812012
+            ],
+            "start_rotation": [
+                0.0,
+                -0.13950810045308912,
+                0.0,
+                -0.9902209298474614
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -3.0905903489822326,
+                        0.15942930698394775,
+                        8.164333687445506
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 1.3330329126554712,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -3.0905903489822326,
+                0.15942930698394775,
+                8.164333687445506
+            ],
+            "start_rotation": [
+                0.0,
+                -0.5154526839762309,
+                0.0,
+                0.8569180419279898
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -4.614955425262451,
+                        0.15942930698394775,
+                        6.478438377380371
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 2.272868646068755,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -4.614955425262451,
+                0.15942930698394775,
+                6.478438377380371
+            ],
+            "start_rotation": [
+                0.0,
+                0.9178102084564645,
+                0.0,
+                0.39701942175805605
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -3.0905903489822326,
+                        0.15942930698394775,
+                        8.164333687445506
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 2.272868646068755,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -3.0905903489822326,
+                0.15942930698394775,
+                8.164333687445506
+            ],
+            "start_rotation": [
+                0.0,
+                0.18425820399034934,
+                0.0,
+                0.9828778735235884
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -4.136403021894021,
+                        0.15942930698394775,
+                        7.592548353347788
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 1.1919155234798053,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -4.136403021894021,
+                0.15942930698394775,
+                7.592548353347788
+            ],
+            "start_rotation": [
+                0.0,
+                -0.8005532629532655,
+                0.0,
+                0.5992616066250865
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -3.0905903489822326,
+                        0.15942930698394775,
+                        8.164333687445506
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 1.1919155234798053,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -3.0905903489822326,
+                0.15942930698394775,
+                8.164333687445506
+            ],
+            "start_rotation": [
+                0.0,
+                0.08070310701876969,
+                0.0,
+                -0.9967381845387068
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -2.781666734194304,
+                        0.15942930698394775,
+                        8.438119503805659
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 0.4127862316182989,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -2.781666734194304,
+                0.15942930698394775,
+                8.438119503805659
+            ],
+            "start_rotation": [
+                0.0,
+                0.9353440697560722,
+                0.0,
+                -0.3537392700452527
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -3.0905903489822326,
+                        0.15942930698394775,
+                        8.164333687445506
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 0.4127862316182989,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -4.3166632652282715,
+                0.15942930698394775,
+                8.687518119812012
+            ],
+            "start_rotation": [
+                0.0,
+                -0.9347725791168523,
+                0.0,
+                0.3552467105142962
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -3.0905903489822326,
+                        0.15942930698394775,
+                        8.164333687445506
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 1.3330329126554712,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -3.0905903489822326,
+                0.15942930698394775,
+                8.164333687445506
+            ],
+            "start_rotation": [
+                0.0,
+                0.6215331880752164,
+                0.0,
+                0.7833878325076652
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -4.3166632652282715,
+                        0.15942930698394775,
+                        8.687518119812012
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 1.3330329126554712,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -4.614955425262451,
+                0.15942930698394775,
+                6.478438377380371
+            ],
+            "start_rotation": [
+                0.0,
+                -0.9130207354422157,
+                0.0,
+                0.40791314841833126
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -3.0905903489822326,
+                        0.15942930698394775,
+                        8.164333687445506
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 2.272868646068755,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -3.0905903489822326,
+                0.15942930698394775,
+                8.164333687445506
+            ],
+            "start_rotation": [
+                0.0,
+                -0.6309846141933099,
+                0.0,
+                -0.7757953445666712
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -4.614955425262451,
+                        0.15942930698394775,
+                        6.478438377380371
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 2.272868646068755,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -4.136403021894021,
+                0.15942930698394775,
+                7.592548353347788
+            ],
+            "start_rotation": [
+                0.0,
+                -0.1778747218424943,
+                0.0,
+                -0.9840531405007839
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -3.0905903489822326,
+                        0.15942930698394775,
+                        8.164333687445506
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 1.1919155234798053,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -3.0905903489822326,
+                0.15942930698394775,
+                8.164333687445506
+            ],
+            "start_rotation": [
+                0.0,
+                0.525238117484358,
+                0.0,
+                0.8509552984390472
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -4.136403021894021,
+                        0.15942930698394775,
+                        7.592548353347788
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 1.1919155234798053,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -2.781666734194304,
+                0.15942930698394775,
+                8.438119503805659
+            ],
+            "start_rotation": [
+                0.0,
+                0.9999533794015006,
+                0.0,
+                0.009656035600534636
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -3.0905903489822326,
+                        0.15942930698394775,
+                        8.164333687445506
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 0.4127862316182989,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -3.0905903489822326,
+                0.15942930698394775,
+                8.164333687445506
+            ],
+            "start_rotation": [
+                0.0,
+                0.6256801740492498,
+                0.0,
+                0.7800796881099396
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -2.781666734194304,
+                        0.15942930698394775,
+                        8.438119503805659
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 0.4127862316182989,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -2.781666734194304,
+                0.15942930698394775,
+                8.438119503805659
+            ],
+            "start_rotation": [
+                0.0,
+                0.18985628611709637,
+                0.0,
+                -0.9818118916685739
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -2.5317975299300546,
+                        0.15942930698394775,
+                        7.683324784183135
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 0.7950784162645176,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -2.5317975299300546,
+                0.15942930698394775,
+                7.683324784183135
+            ],
+            "start_rotation": [
+                0.0,
+                0.7621940857753035,
+                0.0,
+                -0.6473485734974238
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -2.781666734194304,
+                        0.15942930698394775,
+                        8.438119503805659
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 0.7950784162645176,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -2.556393855962505,
+                0.15942930698394775,
+                11.135371020899749
+            ],
+            "start_rotation": [
+                0.0,
+                -0.791204911565652,
+                0.0,
+                -0.6115511327063249
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -2.5317975299300546,
+                        0.15942930698394775,
+                        7.683324784183135
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 3.4521338617851467,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -2.5317975299300546,
+                0.15942930698394775,
+                7.683324784183135
+            ],
+            "start_rotation": [
+                0.0,
+                0.48414887342812174,
+                0.0,
+                0.8749856389440233
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -2.556393855962505,
+                        0.15942930698394775,
+                        11.135371020899749
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 3.4521338617851467,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -2.556393855962505,
+                0.15942930698394775,
+                11.135371020899749
+            ],
+            "start_rotation": [
+                0.0,
+                -0.9423639370841083,
+                0.0,
+                0.33458961442839014
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -2.3067011055745144,
+                        0.15942930698394775,
+                        8.384184130739872
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 2.7624944840096775,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -2.3067011055745144,
+                0.15942930698394775,
+                8.384184130739872
+            ],
+            "start_rotation": [
+                0.0,
+                0.5335696961695198,
+                0.0,
+                0.8457560991973788
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -2.556393855962505,
+                        0.15942930698394775,
+                        11.135371020899749
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 2.7624944840096775,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -2.3067011055745144,
+                0.15942930698394775,
+                8.384184130739872
+            ],
+            "start_rotation": [
+                0.0,
+                0.9153136104289314,
+                0.0,
+                0.4027418460547082
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -2.556393855962505,
+                        0.15942930698394775,
+                        11.135371020899749
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 2.7624944840096775,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -2.556393855962505,
+                0.15942930698394775,
+                11.135371020899749
+            ],
+            "start_rotation": [
+                0.0,
+                -0.4985263151925192,
+                0.0,
+                -0.8668745659324474
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -2.3067011055745144,
+                        0.15942930698394775,
+                        8.384184130739872
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 2.7624944840096775,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -2.3067011055745144,
+                0.15942930698394775,
+                8.384184130739872
+            ],
+            "start_rotation": [
+                0.0,
+                -0.7486472475353209,
+                0.0,
+                0.6629685503534749
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -2.0425800714485742,
+                        0.15942930698394775,
+                        3.246007433915654
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 5.144960610972175,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -2.0425800714485742,
+                0.15942930698394775,
+                3.246007433915654
+            ],
+            "start_rotation": [
+                0.0,
+                0.49588455004226273,
+                0.0,
+                -0.8683884574482681
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -2.3067011055745144,
+                        0.15942930698394775,
+                        8.384184130739872
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 5.144960610972175,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -2.1163420732326426,
+                0.15942930698394775,
+                -2.144140468571691
+            ],
+            "start_rotation": [
+                0.0,
+                0.847640639815279,
+                0.0,
+                -0.5305707735387849
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -1.5880060508980112,
+                        0.15942930698394775,
+                        -1.5444357083368552
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 0.7992401090690469,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -1.5880060508980112,
+                0.15942930698394775,
+                -1.5444357083368552
+            ],
+            "start_rotation": [
+                0.0,
+                0.8516993134806485,
+                0.0,
+                0.5240308000648358
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -2.1163420732326426,
+                        0.15942930698394775,
+                        -2.144140468571691
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 0.7992401090690469,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -2.1163420732326426,
+                0.15942930698394775,
+                -2.144140468571691
+            ],
+            "start_rotation": [
+                0.0,
+                -0.19418914661130682,
+                0.0,
+                -0.980964105020348
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -2.476773262023926,
+                        0.15942930698394775,
+                        -3.192472219467163
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 1.1085621776829047,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -2.476773262023926,
+                0.15942930698394775,
+                -3.192472219467163
+            ],
+            "start_rotation": [
+                0.0,
+                0.5674741352617508,
+                0.0,
+                0.8233912228150895
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -2.1163420732326426,
+                        0.15942930698394775,
+                        -2.144140468571691
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 1.1085621776829047,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -3.4476564952458366,
+                0.15942930698394775,
+                -3.6689450768301066
+            ],
+            "start_rotation": [
+                0.0,
+                -0.0339781113391994,
+                0.0,
+                -0.9994225772664039
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -4.133546054583279,
+                        0.15942930698394775,
+                        -3.6359269418018476
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 0.6866838317951395,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -4.133546054583279,
+                0.15942930698394775,
+                -3.6359269418018476
+            ],
+            "start_rotation": [
+                0.0,
+                -0.43427626909387274,
+                0.0,
+                -0.9007797300682927
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -3.4476564952458366,
+                        0.15942930698394775,
+                        -3.6689450768301066
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 0.6866838317951395,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -3.4476564952458366,
+                0.15942930698394775,
+                -3.6689450768301066
+            ],
+            "start_rotation": [
+                0.0,
+                0.5959027722754043,
+                0.0,
+                0.8030565895343166
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -4.037105350542851,
+                        0.15942930698394775,
+                        -0.8743602491358728
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 2.8560732329878675,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mp3d_toposlam_validation_scenes/rPc6DW4iMge/rPc6DW4iMge.glb",
+            "start_position": [
+                -4.037105350542851,
+                0.15942930698394775,
+                -0.8743602491358728
+            ],
+            "start_rotation": [
+                0.0,
+                0.9994228574119883,
+                0.0,
+                -0.03396987021547995
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -3.4476564952458366,
+                        0.15942930698394775,
+                        -3.6689450768301066
+                    ],
+                    "radius": null
+                }
+            ],
+            "info": {
+                "geodesic_distance": 2.8560732329878675,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        }
+    ]
+}

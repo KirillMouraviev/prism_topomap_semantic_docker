@@ -1,0 +1,531 @@
+{
+    "episodes": [
+        {
+            "episode_id": "0",
+            "scene_id": "/data/scene_datasets/mipt/MIPT_env.glb",
+            "start_position": [
+                27.392169952392578,
+                0.27710700035095215,
+                -1.6781013011932373
+            ],
+            "start_rotation": [
+                0.0,
+                0.4376516121548068,
+                0.0,
+                -0.8991446304006372
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -12.860849380493164,
+                        0.27710700035095215,
+                        0.6114950180053711
+                    ],
+                    "radius": 0.2
+                }
+            ],
+            "info": {
+                "geodesic_distance": 40.95252990722656,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "1",
+            "scene_id": "/data/scene_datasets/mipt/MIPT_env.glb",
+            "start_position": [
+                15.852582931518555,
+                0.27710700035095215,
+                0.5624827742576599
+            ],
+            "start_rotation": [
+                0.0,
+                0.9090688837840931,
+                0.0,
+                -0.4166458502559975
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -31.253158569335938,
+                        0.27710700035095215,
+                        0.44227904081344604
+                    ],
+                    "radius": 0.2
+                }
+            ],
+            "info": {
+                "geodesic_distance": 47.14529037475586,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "2",
+            "scene_id": "/data/scene_datasets/mipt/MIPT_env.glb",
+            "start_position": [
+                11.504618644714355,
+                0.27710700035095215,
+                -4.8229522705078125
+            ],
+            "start_rotation": [
+                0.0,
+                0.775028482158942,
+                0.0,
+                -0.63192630254042
+            ],
+            "goals": [
+                {
+                    "position": [
+                        16.913867950439453,
+                        0.27710700035095215,
+                        1.6024856567382812
+                    ],
+                    "radius": 0.2
+                }
+            ],
+            "info": {
+                "geodesic_distance": 8.39918041229248,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "3",
+            "scene_id": "/data/scene_datasets/mipt/MIPT_env.glb",
+            "start_position": [
+                32.92865753173828,
+                0.27710700035095215,
+                4.654435157775879
+            ],
+            "start_rotation": [
+                0.0,
+                0.3708291906419951,
+                0.0,
+                -0.9287010882774946
+            ],
+            "goals": [
+                {
+                    "position": [
+                        24.109811782836914,
+                        0.27710700035095215,
+                        0.7359187602996826
+                    ],
+                    "radius": 0.2
+                }
+            ],
+            "info": {
+                "geodesic_distance": 13.878621101379395,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "5",
+            "scene_id": "/data/scene_datasets/mipt/MIPT_env.glb",
+            "start_position": [
+                30.044645309448242,
+                0.27710700035095215,
+                8.633827209472656
+            ],
+            "start_rotation": [
+                0.0,
+                0.9968680719612154,
+                0.0,
+                0.07908253349715796
+            ],
+            "goals": [
+                {
+                    "position": [
+                        16.466196060180664,
+                        0.27710700035095215,
+                        9.84019947052002
+                    ],
+                    "radius": 0.2
+                }
+            ],
+            "info": {
+                "geodesic_distance": 23.028900146484375,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "6",
+            "scene_id": "/data/scene_datasets/mipt/MIPT_env.glb",
+            "start_position": [
+                -9.948285102844238,
+                0.27710700035095215,
+                1.918837308883667
+            ],
+            "start_rotation": [
+                0.0,
+                0.9280940451698905,
+                0.0,
+                -0.3723458651847625
+            ],
+            "goals": [
+                {
+                    "position": [
+                        56.6742057800293,
+                        0.27710700035095215,
+                        -3.4213545322418213
+                    ],
+                    "radius": 0.2
+                }
+            ],
+            "info": {
+                "geodesic_distance": 73.65838623046875,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "7",
+            "scene_id": "/data/scene_datasets/mipt/MIPT_env.glb",
+            "start_position": [
+                11.226055145263672,
+                0.27710700035095215,
+                -1.861628770828247
+            ],
+            "start_rotation": [
+                0.0,
+                0.5290536286749253,
+                0.0,
+                -0.8485883913805882
+            ],
+            "goals": [
+                {
+                    "position": [
+                        55.81178283691406,
+                        0.27710700035095215,
+                        0.8654712438583374
+                    ],
+                    "radius": 0.2
+                }
+            ],
+            "info": {
+                "geodesic_distance": 49.6693000793457,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "9",
+            "scene_id": "/data/scene_datasets/mipt/MIPT_env.glb",
+            "start_position": [
+                15.349369049072266,
+                0.27710700035095215,
+                -0.11619940400123596
+            ],
+            "start_rotation": [
+                0.0,
+                0.3050708427751004,
+                0.0,
+                -0.9523296597756945
+            ],
+            "goals": [
+                {
+                    "position": [
+                        55.19129943847656,
+                        0.27710700035095215,
+                        1.6357526779174805
+                    ],
+                    "radius": 0.2
+                }
+            ],
+            "info": {
+                "geodesic_distance": 44.42816162109375,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "10",
+            "scene_id": "/data/scene_datasets/mipt/MIPT_env.glb",
+            "start_position": [
+                30.165489196777344,
+                0.27710700035095215,
+                9.67386531829834
+            ],
+            "start_rotation": [
+                0.0,
+                0.9795973936348512,
+                0.0,
+                0.2009700136433453
+            ],
+            "goals": [
+                {
+                    "position": [
+                        0.3217492699623108,
+                        0.27710700035095215,
+                        1.9883897304534912
+                    ],
+                    "radius": 0.2
+                }
+            ],
+            "info": {
+                "geodesic_distance": 33.34236145019531,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "11",
+            "scene_id": "/data/scene_datasets/mipt/MIPT_env.glb",
+            "start_position": [
+                22.040773391723633,
+                0.27710700035095215,
+                -4.59181022644043
+            ],
+            "start_rotation": [
+                0.0,
+                0.049556782951163864,
+                0.0,
+                0.9987713077894915
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -24.142379760742188,
+                        0.27710700035095215,
+                        1.0800880193710327
+                    ],
+                    "radius": 0.2
+                }
+            ],
+            "info": {
+                "geodesic_distance": 47.412147521972656,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "12",
+            "scene_id": "/data/scene_datasets/mipt/MIPT_env.glb",
+            "start_position": [
+                17.979555130004883,
+                0.27710700035095215,
+                0.08323359489440918
+            ],
+            "start_rotation": [
+                0.0,
+                0.9978315676954017,
+                0.0,
+                -0.06581916522212186
+            ],
+            "goals": [
+                {
+                    "position": [
+                        25.274978637695312,
+                        0.27710700035095215,
+                        1.8688576221466064
+                    ],
+                    "radius": 0.2
+                }
+            ],
+            "info": {
+                "geodesic_distance": 7.510769367218018,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "13",
+            "scene_id": "/data/scene_datasets/mipt/MIPT_env.glb",
+            "start_position": [
+                -19.951196670532227,
+                0.27710700035095215,
+                0.4068414568901062
+            ],
+            "start_rotation": [
+                0.0,
+                0.8013377883031757,
+                0.0,
+                -0.5982121271232929
+            ],
+            "goals": [
+                {
+                    "position": [
+                        4.869042873382568,
+                        0.27710700035095215,
+                        1.8303786516189575
+                    ],
+                    "radius": 0.2
+                }
+            ],
+            "info": {
+                "geodesic_distance": 24.86102867126465,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "14",
+            "scene_id": "/data/scene_datasets/mipt/MIPT_env.glb",
+            "start_position": [
+                -29.382057189941406,
+                0.27710700035095215,
+                -1.5608798265457153
+            ],
+            "start_rotation": [
+                0.0,
+                0.8946101919065785,
+                0.0,
+                0.4468474063221971
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -20.46258544921875,
+                        0.27710700035095215,
+                        0.9425754547119141
+                    ],
+                    "radius": 0.2
+                }
+            ],
+            "info": {
+                "geodesic_distance": 9.408527374267578,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "15",
+            "scene_id": "/data/scene_datasets/mipt/MIPT_env.glb",
+            "start_position": [
+                15.108322143554688,
+                0.27710700035095215,
+                -0.38742005825042725
+            ],
+            "start_rotation": [
+                0.0,
+                0.5310430131308517,
+                0.0,
+                -0.8473448637980324
+            ],
+            "goals": [
+                {
+                    "position": [
+                        33.34053421020508,
+                        0.27710700035095215,
+                        2.9317405223846436
+                    ],
+                    "radius": 0.2
+                }
+            ],
+            "info": {
+                "geodesic_distance": 23.27225685119629,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "16",
+            "scene_id": "/data/scene_datasets/mipt/MIPT_env.glb",
+            "start_position": [
+                -21.905078887939453,
+                0.27710700035095215,
+                1.2908735275268555
+            ],
+            "start_rotation": [
+                0.0,
+                0.6276267649602406,
+                0.0,
+                -0.7785143825938882
+            ],
+            "goals": [
+                {
+                    "position": [
+                        -25.02829360961914,
+                        0.27710700035095215,
+                        -6.805180549621582
+                    ],
+                    "radius": 0.2
+                }
+            ],
+            "info": {
+                "geodesic_distance": 12.724185943603516,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "18",
+            "scene_id": "/data/scene_datasets/mipt/MIPT_env.glb",
+            "start_position": [
+                31.4289608001709,
+                0.27710700035095215,
+                6.992159843444824
+            ],
+            "start_rotation": [
+                0.0,
+                0.20897848582096454,
+                0.0,
+                -0.9779202382934801
+            ],
+            "goals": [
+                {
+                    "position": [
+                        12.212160110473633,
+                        0.27710700035095215,
+                        -0.5948857069015503
+                    ],
+                    "radius": 0.2
+                }
+            ],
+            "info": {
+                "geodesic_distance": 22.240543365478516,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        },
+        {
+            "episode_id": "19",
+            "scene_id": "/data/scene_datasets/mipt/MIPT_env.glb",
+            "start_position": [
+                27.204708099365234,
+                0.27710700035095215,
+                10.404837608337402
+            ],
+            "start_rotation": [
+                0.0,
+                0.7554815965758801,
+                0.0,
+                -0.6551698689921257
+            ],
+            "goals": [
+                {
+                    "position": [
+                        21.396270751953125,
+                        0.27710700035095215,
+                        1.5104875564575195
+                    ],
+                    "radius": 0.2
+                }
+            ],
+            "info": {
+                "geodesic_distance": 11.38956356048584,
+                "difficulty": "hard"
+            },
+            "shortest_paths": null,
+            "start_room": null
+        }
+    ]
+}
